@@ -1,9 +1,16 @@
 [0] Config.pm:357> INFO - This is Biber 1.2
 [0] Config.pm:360> INFO - Logfile is 'HFES12-wdg-Beamer.blg'
-[1] biber-darwin:155> INFO - === Sun Oct 21, 2012, 12:30:13
+[1] biber-darwin:155> INFO - === Sun Oct 21, 2012, 17:03:10
 [1] Biber.pm:286> INFO - Reading 'HFES12-wdg-Beamer.bcf'
-[79] Biber.pm:585> INFO - Found 7 citekeys in bib section 0
-[90] Biber.pm:2802> INFO - Processing section 0
-[99] Biber.pm:2895> INFO - Looking for bibtex format file 'mini.bib' for section 0
-[264] Utils.pm:183> ERROR - Cannot find 'mini.bib'!
-[264] Biber.pm:111> INFO - ERRORS: 1
+[78] Biber.pm:585> INFO - Found 5 citekeys in bib section 0
+[88] Biber.pm:2802> INFO - Processing section 0
+[97] Biber.pm:2895> INFO - Looking for bibtex format file '/Users/GrayMatter/Library/texmf/tex/wdg_master_Bib.bib' for section 0
+[153] bibtex.pm:658> INFO - Found BibTeX data source '/Users/GrayMatter/Library/texmf/tex/wdg_master_Bib.bib'
+[379] Utils.pm:167> WARN - BibTeX subsystem: /var/folders/z5/wyhq6gnj5jjdh2p315y8_fm80000gn/T/blPUVebcUb/wdg_master_Bib.bib_3427.utf8, line 3040, warning: possible runaway string started at line 3036
+[379] Utils.pm:167> WARN - BibTeX subsystem: /var/folders/z5/wyhq6gnj5jjdh2p315y8_fm80000gn/T/blPUVebcUb/wdg_master_Bib.bib_3427.utf8, line 19955, warning: possible runaway string started at line 19751
+[464] Biber.pm:2691> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[464] Biber.pm:2697> INFO - Sorting 'entry' list 'apa' keys
+[464] Biber.pm:2701> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[506] bbl.pm:456> INFO - Writing 'HFES12-wdg-Beamer.bbl' with encoding 'ascii'
+[507] bbl.pm:516> INFO - Output to HFES12-wdg-Beamer.bbl
+[508] Biber.pm:107> INFO - WARNINGS: 2
