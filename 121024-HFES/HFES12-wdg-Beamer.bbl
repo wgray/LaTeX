@@ -19,131 +19,131 @@
 
 \refsection{0}
   \sortlist{entry}{apa}
-    \entry{kirsh94csj}{article}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=0,hash=921cfedbe2d64b85410226a8be53dca6}{Kirsh}{K\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=74540b682c4bf84d82ee0d1a0a2667a4}{Maglio}{M\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+    \entry{borges98exactitude}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=8e4069da1680e936ce424eea29a38e38}{Borges}{B\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=921cfedbe2d64b85410226a8be53dca6}{Kirsh}{K\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=1,hash=74540b682c4bf84d82ee0d1a0a2667a4}{Maglio}{M\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8e4069da1680e936ce424eea29a38e38}{Borges}{B\bibinitperiod}{J.\bibnamedelimi L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{f581381981a326361c286953851a9a95}
-      \strng{fullhash}{f581381981a326361c286953851a9a95}
-      \field{sortinit}{K}
-      \field{labelyear}{1994}
-      \field{labeltitle}{On distinguishing epistemic from pragmatic action}
-      \field{abstract}{Argues that in a real-time, interactive video game (Tetris), certain cognitive and perceptual problems are more quickly, easily, and reliably solved by performing actions in the world than by performing computational actions in the head alone. These actions are used to change the world to simplify the problem-solving task. A standard information-processing model of Tetris is developed that demonstrates that such models cannot explain performance data from human players of the game. Standard models disregard many actions taken by players because they appear unmotivated or superfluous. However, such actions may actually play a valuable role in improving human performance. It is argued that traditional accounts are limited because they regard action as having the single function of changing the world. A second (epistemic) function of action can explain many of the actions that a traditional model cannot. ((c) 1997 APA/PsycINFO, all rights reserved).}
-      \field{journaltitle}{Cognitive Science}
-      \field{number}{4}
-      \field{title}{On distinguishing epistemic from pragmatic action}
-      \field{volume}{18}
-      \field{year}{1994}
-      \field{pages}{513\bibrangedash 549}
-      \keyw{*Computer Games *Mental Rotation *Perceptual Motor Processes *Problem Solving Adulthood}
+      \strng{namehash}{8e4069da1680e936ce424eea29a38e38}
+      \strng{fullhash}{8e4069da1680e936ce424eea29a38e38}
+      \field{sortinit}{B}
+      \field{labelyear}{1998}
+      \field{labeltitle}{On the exactitude of science}
+      \field{booktitle}{Collected Fictions}
+      \field{journaltitle}{Translated by Andrew Hurley. New York: Penguin}
+      \field{title}{On the exactitude of science}
+      \field{year}{1998}
+      \field{pages}{325}
     \endentry
-    \entry{maglio08actaPsyc}{article}{}
+    \entry{gray02hfes}{inproceedings}{}
       \name{labelname}{3}{}{%
-        {{uniquename=1,hash=8f67843f30b48eab774184ce5583640b}{Maglio}{M\bibinitperiod}{P.\bibnamedelimi P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8c5e3414da2fee187b8db1e88ec5b03b}{Wenger}{W\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4d9ce0fe344c889c454da85163ff4e51}{Copeland}{C\bibinitperiod}{A.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=67a5ccf2c19866692a78f9c045ad836b}{Schoelles}{S\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe2409a87c4d2b13eca8e0ca327c6513}{Myers}{M\bibinitperiod}{Christopher\bibnamedelima W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=1,hash=8f67843f30b48eab774184ce5583640b}{Maglio}{M\bibinitperiod}{P.\bibnamedelimi P.}{P\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8c5e3414da2fee187b8db1e88ec5b03b}{Wenger}{W\bibinitperiod}{M.\bibnamedelimi J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4d9ce0fe344c889c454da85163ff4e51}{Copeland}{C\bibinitperiod}{A.\bibnamedelimi M.}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=67a5ccf2c19866692a78f9c045ad836b}{Schoelles}{S\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=fe2409a87c4d2b13eca8e0ca327c6513}{Myers}{M\bibinitperiod}{Christopher\bibnamedelima W.}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{372a2bdd2660be2a74d7b5ed820fef4a}
-      \strng{fullhash}{9725da6d64952f1fb38ed039de5ae59b}
+      \list{location}{1}{%
+        {Santa Monica, CA}%
+      }
+      \list{publisher}{1}{%
+        {Human Factors \& Ergonomics Society}%
+      }
+      \strng{namehash}{c342a2a4482a5c8c82cad05af0cec737}
+      \strng{fullhash}{9a2eb2cd8da5c330c06e163643f4a115}
+      \field{sortinit}{G}
+      \field{labelyear}{2002}
+      \field{labeltitle}{Computational cognitive models {ISO} ecologically optimal strategies}
+      \field{abstract}{Our work with the Argus Prime (Schoelles \& Gray, 2001) simulated task environment has uncovered a variety of strategies that subjects use, at least sometimes, during target acquisition. However, it is difficult to determine how well subjects implement these strategies and, if implemented, how much these strategies contribute to overall performance. Recently, we have adopted Byrne and Kirlik's (2002) cognitive-ecological approach to determine what strategies work best in different task environments. In the work reported here, we took one computational cognitive model and, holding all else constant, swapped in and out alternative strategies for target acquisition. We then ran each of these simulated human users ten times through each of four interface conditions.}
+      \field{annotation}{Known citations: (those listed below)scholar.google.com (2007-11-26): 27 citationsOsman, M. (2010). Controlling uncertainty: A review of human behavior in complex dynamic environments. Psychological Bulletin, 136(1), 65-86.}
+      \field{booktitle}{46th Annual Conference of the Human Factors \& Ergonomics Society}
+      \field{title}{Computational cognitive models {ISO} ecologically optimal strategies}
+      \field{year}{2002}
+      \field{pages}{492\bibrangedash 496}
+      \keyw{Argus}
+    \endentry
+    \entry{bej12hfes}{inproceedings}{}
+      \name{labelname}{3}{}{%
+        {{uniquename=0,hash=1bb587c8de89f35854ac79f92797c2a4}{John}{J\bibinitperiod}{Bonnie\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e64caa2e86327db46ab9b97e11b577ae}{Patton}{P\bibinitperiod}{Evan\bibnamedelima W.}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{uniquename=0,hash=1bb587c8de89f35854ac79f92797c2a4}{John}{J\bibinitperiod}{Bonnie\bibnamedelima E.}{B\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e64caa2e86327db46ab9b97e11b577ae}{Patton}{P\bibinitperiod}{Evan\bibnamedelima W.}{E\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Santa Monica, CA}%
+      }
+      \list{publisher}{1}{%
+        {HFES}%
+      }
+      \strng{namehash}{66cd45e05da7c53b3961cbc71e0a6286}
+      \strng{fullhash}{2112c9e1b0246f357434005a275b39d7}
+      \field{sortinit}{J}
+      \field{labelyear}{2012}
+      \field{labeltitle}{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers}
+      \field{abstract}{Many devices are designed to allow skilled users to complete routine tasks quickly, often within a specified amount of time. Predictive human performance modeling has long been able to predict the mean time to accomplish a task, making it possible to compare device designs before building them. However, estimates of the variability of performance are also important, especially in real-time, safety-critical tasks. Until recently, the human factors community lacked tools to predict the variability of skilled performance. In this paper, we describe a combination of theory-based tools (CogTool and SANLab) that address this critical gap and that can easily be used by human factors practitioners or system designers. We describe these tools, their integration, and provide a concrete example of their use in the context of entering the landing speed into the Boeing 777 Flight Management Computer (FMC) using the Control and Display Unit (CDU).}
+      \field{booktitle}{56th {Annual Conference of the Human Factors \& Ergonomics Society}}
+      \field{title}{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers}
+      \field{year}{2012}
+      \keyw{{CogTool, SANLab}}
+    \endentry
+    \entry{mcclelland09topiCS}{article}{}
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=ae1ee830d833fb565f5c6989bd1c48f1}{McClelland}{M\bibinitperiod}{James\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ae1ee830d833fb565f5c6989bd1c48f1}{McClelland}{M\bibinitperiod}{James\bibnamedelima L.}{J\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ae1ee830d833fb565f5c6989bd1c48f1}
+      \strng{fullhash}{ae1ee830d833fb565f5c6989bd1c48f1}
       \field{sortinit}{M}
-      \field{labelyear}{2008}
-      \field{labeltitle}{Evidence for the role of self-priming in epistemic action: Expertise and the effective. use of memory}
-      \field{abstract}{Epistemic actions are physical actions people take to simplify internal problem solving rather than to move closer to an external goal. When playing the video game Tetris, for instance, experts routinely rotate falling shapes more than is strictly needed to place the shapes. Maglio and Kirsh [Kirsh, D., \& Maglio, P. (1994). On distinguishing epistemic from pragmatic action. Cognitive Science, 18, 513-549; Maglio, P. P. (1995). The computational basis of interactive skill. PhD thesis, University of California, San Diego] proposed that such actions might serve the purpose of priming memory by external means, reducing the need for internal computation (e.g., mental rotation), and resulting in performance improvements that exceed the cost of taking additional actions. The present study tests this priming hypothesis in a set of four experiments. The first three explored precisely the conditions under which priming produces benefits. Results showed that presentation of multiple orientations of a shape led to faster responses than did presentation of a single orientation, and that this effect depended on the interval between preview and test. The fourth explored whether the benefit of seeing shapes in multiple orientations outweighs the cost of taking the extra actions to rotate shapes physically. Benefits were measured using a novel statistical method for mapping reaction-time data onto an estimate of the increase in processing capacity afforded by seeing multiple orientations. Cost was measured using an empirical estimate of time needed to take action in Tetris. Results showed that indeed the increase in internal processing capacity obtained from seeing shapes in multiple orientations outweighed the time to take extra actions. (c) 2007 Elsevier B.V. All rights reserved.}
-      \field{journaltitle}{Acta Psychologica}
+      \field{labelyear}{2009}
+      \field{labeltitle}{The place of modeling in cognitive science}
+      \field{abstract}{I consider the role of cognitive modeling in cognitive science. Modeling, and the computers that enable it, are central to the field, but the role of modeling is often misunderstood. Models are not intended to capture fully the processes they attempt to elucidate. Rather, they are explorations of ideas about the nature of cognitive processes. As explorations, simplification is essential -- it is only through simplification that we can fully understand the implications of the ideas. This is not to say that simplification has no downsides; it does, and these are discussed. I consider several contemporary paradigms for cognitive modeling. The discussion stresses the idea that each paradigm is useful in its own particular ways, and also points out pitfalls and limitations in some cases. Increases in computer power (by a factor of about 4 million) since 1958 have enabled new modeling paradigms to emerge, but these also depend on new ways of thinking. Will new paradigms emerge again with the next 1,000-fold increase?}
+      \field{annotation}{why do we model? what do models tell us? models as a tool for scientific discovery by exploring the implications of theories. cognitive modeling as having a different agenda than AI. models as "vehicles for scientific discovery" "But the discoveries take a particular form: A system with a particular set of specified properties has another set of properties that arise from those in the specified set as consequences. ""concerns itself with the question of capturing the essence of human cognitive abilities""Model failures also present an opportunity: when a model fails it allows us to focus attention on where we might have been wrong, allowing real progress to arise from further investigations."What does a success fit bet model and data tell us?"To the extent that it is consistent with a particular body of facts, it cannot be ruled out on that basis. But this does not mean that the model is correct, or that the properties it embodies hold of the systems that it is intended to model. When a set of ideas turns out to be inconsistent with a body of data, then something about the set of ideas is in error; but when a set of ideas is consistent with a body of ideas, the only thing we can conclude is that this set of ideas cannot be ruled out."Visions begins with Jay McClelland's very personal, but ecumenical view of the role of models in cognitive science. "inspiration from neuroscience has provided a heuristic guide in model development, but it should not be used either as a privileged basis for support or as a procrustean bed to constrain the further development of the framework""The inclusion of graded strengths and mechanisms for adjusting these strengths can make it difficult to define empirical tests that distinguish production system models from connectionist or other approaches. It seems likely that further developments will continue to blur the boundaries between these approaches."}
+      \field{journaltitle}{Topics in Cognitive Science}
       \field{number}{1}
-      \field{title}{Evidence for the role of self-priming in epistemic action: Expertise and the effective. use of memory}
-      \field{volume}{127}
-      \field{year}{2008}
-      \field{pages}{72\bibrangedash 88}
+      \field{title}{The place of modeling in cognitive science}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{11\bibrangedash 38}
     \endentry
-    \entry{mane89ap.jou}{article}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=0,hash=ca136d65b3827b8929fe7af0e66f31fe}{Man{\'e}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=85e89f87e85fa0d1e5a0deeb7fc17da3}{Donchin}{D\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+    \entry{wang12neuroImage}{article}{}
+      \name{labelname}{5}{}{%
+        {{uniquename=0,hash=a98d05fa3a64d8d9d69c3528322becf4}{Wang}{W\bibinitperiod}{Ziheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0f3a3f67dd789b4740f8d1e6b0bf259}{Hope}{H\bibinitperiod}{Ryan\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=98f3c258cb0f0650594cc30a13b8f9d9}{Wang}{W\bibinitperiod}{Zuoguan}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2825e3c1e08515c8a535d9517c5879f}{Ji}{J\bibinitperiod}{Qiang}{Q\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{2}{}{%
-        {{uniquename=0,hash=ca136d65b3827b8929fe7af0e66f31fe}{Man{\'e}}{M\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=85e89f87e85fa0d1e5a0deeb7fc17da3}{Donchin}{D\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+      \name{author}{5}{}{%
+        {{uniquename=0,hash=a98d05fa3a64d8d9d69c3528322becf4}{Wang}{W\bibinitperiod}{Ziheng}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f0f3a3f67dd789b4740f8d1e6b0bf259}{Hope}{H\bibinitperiod}{Ryan\bibnamedelima M.}{R\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=98f3c258cb0f0650594cc30a13b8f9d9}{Wang}{W\bibinitperiod}{Zuoguan}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f2825e3c1e08515c8a535d9517c5879f}{Ji}{J\bibinitperiod}{Qiang}{Q\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=11f0cfcd2f7220a7fabe3c1a58ac43e6}{Gray}{G\bibinitperiod}{Wayne\bibnamedelima D.}{W\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
       }
-      \strng{namehash}{4c56f0532eec06ddda11cdba254d085d}
-      \strng{fullhash}{4c56f0532eec06ddda11cdba254d085d}
-      \field{sortinit}{M}
-      \field{labelyear}{1989}
-      \field{labeltitle}{The Space Fortress game}
-      \field{abstract}{Space Fortress was developed in the Cognitive Psychophysiology Laboratory as an experimental task for the study of complex skill and its acquisition. The development process was long and iterative. The first step was the development of a computer-controlled task with game-like qualities. This was followed by a series of modifications and additions that were incorporated into the game and evaluated. The goals were (1) to create a complex task that is representative of real-life tasks, (2) to incorporate dimensions of difficulty that are of interest based on existing research on skill and its acquisition, and (3) to keep the task interesting and challenging for the subjects during extended practice. Earlier versions of the game were used in previous experiments (Mane et al. 1983a; 1983b; 1984; Mane 1984). The version of the game that is described below was used by all the participants of the Learning Strategies project.}
-      \field{journaltitle}{Acta Psychologica}
-      \field{number}{1-3}
-      \field{title}{The Space Fortress game}
-      \field{volume}{71}
-      \field{year}{1989}
-      \field{pages}{17\bibrangedash 22}
-    \endentry
-    \entry{shebilske05brm.jou}{article}{}
-      \name{labelname}{7}{}{%
-        {{uniquename=0,hash=6d23cca598bac689df62a65c3d24e978}{Shebilske}{S\bibinitperiod}{W.\bibnamedelimi L.}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=68b7debaa94a9bb94970f605107f0672}{Volz}{V\bibinitperiod}{R.\bibnamedelimi A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e573e14d51551b0781223365a423fd1a}{Gildea}{G\bibinitperiod}{K.\bibnamedelimi M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6f5ff0708e5518601b9477826d48affc}{Workman}{W\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ab242535e89b13fb5b84f166ce02a3ef}{Nanjanath}{N\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=05732bdc72dbfb20ca9f19739718992c}{Cao}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=258673c632399eeccf31220f4f546547}{Whetzel}{W\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{7}{}{%
-        {{uniquename=0,hash=6d23cca598bac689df62a65c3d24e978}{Shebilske}{S\bibinitperiod}{W.\bibnamedelimi L.}{W\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=68b7debaa94a9bb94970f605107f0672}{Volz}{V\bibinitperiod}{R.\bibnamedelimi A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=e573e14d51551b0781223365a423fd1a}{Gildea}{G\bibinitperiod}{K.\bibnamedelimi M.}{K\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=6f5ff0708e5518601b9477826d48affc}{Workman}{W\bibinitperiod}{J.\bibnamedelimi W.}{J\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=ab242535e89b13fb5b84f166ce02a3ef}{Nanjanath}{N\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=05732bdc72dbfb20ca9f19739718992c}{Cao}{C\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=258673c632399eeccf31220f4f546547}{Whetzel}{W\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{bdaf14c9fe9d7dbf584ba6d7d9a369f8}
-      \strng{fullhash}{ea71dae258c67881305397bb93e30e1e}
-      \field{sortinit}{S}
-      \field{labelyear}{2005}
-      \field{labeltitle}{Revised Space Fortress: A validation study}
-      \field{abstract}{We describe briefly the redevelopment of Space Fortress (SF), a research tool widely used to study training of complex tasks involving both cognitive and motor skills, to be executed on current-generation systems with significantly extended capabilities, and then compare the performance of human participants on an original PC version of Space Fortress (SF) with the revised Space Fortress (RSF). Participants trained on SF or RSF for 10 sets of eight 3-min practice trials and two 3-min test trials. They then took tests involving retention, resistance to secondary task interference, and transfer to a different control system. They then switched from SF to RSF or from RSF to SF for 2 sets of final tests and completed rating scales comparing RSF and SF Slight differences were predicted on the basis of a scoring error in the original version of SF used and on slightly more precise joystick control in RSF The predictions were supported. The SF group started better but did worse when they transferred to RSF, Despite the disadvantage of having to be cautious in generalizing from RSF to SF, we conclude that RSF has many advantages, which include accommodating new PC hardware and new training techniques. A monograph that presents the methodology used in creating RSF, details on its performance and validation, and directions on how to download free copies of the system may be downloaded from www.psychonomic.org/archive/.}
-      \field{journaltitle}{Behavior Research Methods}
-      \field{number}{4}
-      \field{title}{Revised Space Fortress: A validation study}
-      \field{volume}{37}
-      \field{year}{2005}
-      \field{pages}{591\bibrangedash 601}
-    \endentry
-    \entry{terlecki08acp}{article}{}
-      \name{labelname}{3}{}{%
-        {{uniquename=0,hash=1a2614d0dc55b790187f39868f967920}{Terlecki}{T\bibinitperiod}{M.\bibnamedelimi S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=de189ee388313209e2f2d6acd6ed8baf}{Newcombe}{N\bibinitperiod}{N.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=27e4190972cdd322984d944975276900}{Little}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \name{author}{3}{}{%
-        {{uniquename=0,hash=1a2614d0dc55b790187f39868f967920}{Terlecki}{T\bibinitperiod}{M.\bibnamedelimi S.}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=de189ee388313209e2f2d6acd6ed8baf}{Newcombe}{N\bibinitperiod}{N.\bibnamedelimi S.}{N\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=27e4190972cdd322984d944975276900}{Little}{L\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
-      }
-      \strng{namehash}{238fe4bd0d21d1d65497a4ba211ed0b2}
-      \strng{fullhash}{3d5df70b3ef27652d6efec949ea38867}
-      \field{sortinit}{T}
-      \field{labelyear}{2008}
-      \field{labeltitle}{Durable and Generalized Effects of Spatial Experience on Mental Rotation: Gender Differences in Growth Patterns}
-      \field{abstract}{This study addressed questions about improvement in mental rotation skills: (1) whether growth trajectories differ for men and women with higher or lower spatial experience, (2) whether videogame training has effects on performance and leads to transfer, (3) whether effects of repeated testing or training effects are durable and (4) whether transfer is durable. Undergraduates participated in repeated testing on the MRT or played the videogame Tetris. Analyses showed large improvements in mental rotation with both repeated testing and training; these gains were maintained several months later. MRT scores of men and women did not converge, but men showed faster initial growth and women showed more improvement later. Videogame training showed greater initial growth than repeated testing alone, but final performance did not differ. Effects of videogame training transferred to other spatial tasks exceeding the effects of repeated testing, and this transfer advantage was still evident after several months. Copyright (C) 2007 John Wiley \& Sons, Ltd.}
-      \field{journaltitle}{Applied Cognitive Psychology}
-      \field{number}{7}
-      \field{title}{Durable and Generalized Effects of Spatial Experience on Mental Rotation: Gender Differences in Growth Patterns}
-      \field{volume}{22}
-      \field{year}{2008}
-      \field{pages}{996\bibrangedash 1013}
-      \keyw{SEX-RELATED DIFFERENCES VIDEO GAME PLAYERS META-ANALYSIS PERFORMANCE COMPUTER ABILITY TASK}
+      \strng{namehash}{d05ba1bfdc5b6d3cdcbc7041e17e47af}
+      \strng{fullhash}{1d723ee8deaa0781f2002782e50d6510}
+      \field{sortinit}{W}
+      \field{labelyear}{2012}
+      \field{labeltitle}{Cross-subject workload classification with a {Hierarchical Bayes Model}}
+      \field{abstract}{Most of the current EEG-based workload classiers are subject-specific; that is, a new classier is built and trained for each human subject. In this paper we introduce a cross-subject workload classier based on a hierarchical Bayes Model. The cross-subject classier is trained and tested with data from a group of subjects. In our work, it was trained and tested on EEG data collected from 8 subjects as they performed the Multi-Attribute Task Battery across three levels of difficulty. The accuracy of this cross-subject classier is stable across the three levels of workload and comparable to a benchmark subject-specific neural network classier.}
+      \field{journaltitle}{NeuroImage}
+      \field{number}{1}
+      \field{title}{Cross-subject workload classification with a {Hierarchical Bayes Model}}
+      \field{volume}{59}
+      \field{year}{2012}
+      \field{pages}{64\bibrangedash 69}
+      \keyw{Workload Classication, EEG, Hierarchical Bayes Model, Articial Neural Network}
     \endentry
   \endsortlist
 \endrefsection

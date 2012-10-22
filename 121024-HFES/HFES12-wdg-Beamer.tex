@@ -225,7 +225,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \title[Inside Models] % (optional, use only with long paper titles)
-{Models, Modeling, and Models}
+{Models, Modeling, and Muddles}
 
 %\subtitle{Eye Data in Immediate Interactive Behavior}
 
@@ -260,21 +260,7 @@
 
 \end{frame}
 
-
-\begin{frame}[shrink=10]
-
-	\frametitle{TETRIS IS A TASK WE ALL KNOW!!}
-
-\begin{itemize} 
-	\item \alert{\emph{\large \& some of us study}}
-\end{itemize}
-
-\begin{textblock}{13}(1,3)
-	\fullcitebib{terlecki08acp,kirsh94csj,maglio08actaPsyc}
-\end{textblock}
-	
-\end{frame}
-
+\section{Sheridan's Taxonomy}
 
 \begin{frame}
 	\frametitle{SHERIDAN'S TAXONOMY OF MODEL ATTRIBUTES}
@@ -301,49 +287,168 @@
 	\end{tabular}
 }
 	\end{center}
-
-
-	
 \end{frame}
 
-
+\section{Other Visions}
 \begin{frame}[label=sampleAgainframe]
-	\frametitle{ORIGINAL SPACE FORTRESS (SF1): \emph{The Learning Strategies Project}}
-		\begin{columns}[c]
-		\column{0.6\textwidth}
-			\begin{itemize}
-				\item Early-80's
-				\item DARPA funded (sort of)
-				\item \cite{mane89ap.jou}
-			\end{itemize}
-		\column{0.4\textwidth}
-	\end{columns}
-	
-\end{frame}
-
-
-\begin{frame}
-	\frametitle{SF3 -- REVISED SPACE FORTRESS}
-	\begin{itemize}
-		\item A nearly identical  port of SF2 to play on the machines available in the 2000's
-		\item Joystick dynamics changed in undeterminable ways between SF2 (used custom software now lost to history) and SF3
-		\item Data logged once per second
-		\item Setting up an experiment in RSF is a cumbersome process
-		\begin{itemize}
-			\item Requires two computers
-			\item A server and client that need to be run independently
-			\item Experimental conditions need to be set up and users added to an Access\texttrademark database before the game can be played
-		\end{itemize}
+	\frametitle{OTHER VISIONS OF MODELS: \emph{McClelland, 2009}}
+	``The essential purpose of cognitive modeling is to allow investigation of the implications of ideas, beyond the limits of human thinking.
+	\begin{itemize}[<+->]
+		\item Models allow the exploration of the implications of ideas that cannot be fully explored by thought alone.
+		\item As such, they are vehicles for scientific discovery, in much the same way as experiments on human (or other) participants. 
+		\item But the discoveries take a particular form: A system with a particular set of specified properties has another set of properties that arise from those in the specified set as consequences.
+		\item From observations of this type, we then attempt to draw implications for the nature of human cognition'' \parencite{mcclelland09topiCS}
 	\end{itemize}
+
 	\begin{textblock}{8}(1,13)
-		\begin{alertblock}{}
-			\tiny{\fullcite{shebilske05brm.jou}}
-		\end{alertblock}
+		\begin{citeBlock}{}
+			\tiny{\fullcite{mcclelland09topiCS}}
+		\end{citeBlock}
 	\end{textblock}
 \end{frame}
 
-\againframe{sampleAgainframe}
+\begin{frame}
+	\frametitle{IMPORTANCE OF SIMPLIFICATION -- from McClelland, 2009}
+	\begin{itemize}[<+->]
+		\item ``\textcite{borges98exactitude} describes a town where there are mapmakers who are obsessed with verisimilitude in their mapmaking
+		\begin{itemize}
+			\item Each strives to outdo the others in making his maps more detailed and realistic. Some mapmakers are criticized because their maps are too small--their scale prevents recording of many details. Others are criticized for schematic rendering of roads and intersections.
+			\item The consequence is the construction of huge, life-size maps, which, of course, are completely useless because use of such a map is no easier than direct exploration of the real space that the map represents.
+		\end{itemize}
+		\item When it comes to mapmaking, simplification is evidently crucial--the point of the map is to offer a guide, rather than a replication, of reality.''
+	\end{itemize}
 
+	\begin{textblock}{8}(1,13.5)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{borges98exactitude}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+\begin{frame}
+	\frametitle{MORE MCCLELLAND}
+The point is simply this: 
+	\begin{itemize} 
+		\item Simplification is essential, but it comes at a cost, and real understanding
+depends in part on understanding the effects of the simplification. 
+		\item Unfortunately, this can mean that further exploration becomes more technical and complex as a result.
+			\item Trying hard to add just enough additional complexity can help. Learning what simplification is the best one to use is also a part of the process. Some simplifications do a better job retaining essential properties of a process than others.
+	\end{itemize}
+\end{frame}
+
+\section{Models Presented at HFES}
+\subsection{Predicting Task Duration \& Variability}
+
+%% undoes the effect of \setbeamercovered{transparent} used in the prolog
+{\setbeamercovered{invisible}{
+\begin{frame}
+	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers - HFES12 - Thur 8:00 HP2}
+	\begin{textblock}{12}(1,4)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig4-SL}}
+	\end{textblock}
+	
+	\begin{textblock}{6}(6,7)
+		\uncover<2>{\includegraphics[width=\textwidth]{zFigs/fig5-SLhist}}
+	\end{textblock}
+\end{frame}
+}}
+
+\begin{frame}
+	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers}
+	\vspace{-1cm}
+	A SANLab Model (Stochastic Analytic Network Laboratory)
+
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Predicts expert performance times and variability w/o experts																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	3 - Multi input/output			&	Takes task analysis as input, predicts time + variability																	\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	3 - Cardinal						&	Mean times and Standard Deviations																\\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Any one model \alert{should} focus on one design; however, trivial to make multiple models for same or different device 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	2-3								&	CogTool is widely used by the interface design community. SANLab is based on Activity Networks which are the formalism underlying CPM-GOMS models as well as MANPRINT, etc													\\
+	\end{tabular}
+}
+	\begin{textblock}{12}(1,13)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{bej12hfes}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+\subsection{Cognitive Workload from EEG}
+
+\begin{frame}
+	\frametitle{Cross-subject workload classification with a Hierarchical Bayes Model - HFES11}
+	\begin{textblock}{12}(1,4)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig1_NeuroImage}}
+	\end{textblock}
+	\begin{textblock}{12}(1,13)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{wang12neuroImage}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Cross-subject workload classification}
+	%\vspace{-1cm}
+	Using a non-cognitive, Hierarchical Bayes Model
+
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Uses a training set of multiple people to derive parameters that can read each of their EEG data to recognize their current workload state \textcolor{wdgRed}{(caution - this gloss may make the model sound better than it actually is)}																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes 64 channel EEG data and predicts one CWL measure																	\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	2 - Ordinal						&	High, medium, or low workload																\\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Workload!!! 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Hierarchical Bayes Analyses are well-accepted in the academic engineering community, apparently new to Human Factors													\\
+	\end{tabular}
+}
+\end{frame}
+
+\subsection{Strategy Evaluation via Cognitive Modeling}
+
+%% undoes the effect of \setbeamercovered{transparent} used in the prolog
+
+\begin{frame}
+	\frametitle{Strategy Evaluation via Cognitive Modeling - HFES02}
+	\begin{textblock}{12}(1,2)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/Argus_scr-shot_color}}
+	\end{textblock}
+	\begin{textblock}{12}(1,13)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{gray02hfes}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Strategy Evaluation via Cognitive Modeling}
+	%\vspace{-1cm}
+	\small{Using a cognitively valid, ACT-R model locked into one of 3 search strategies -- asking the \textcolor{wdgRed}{\emph{optimality} question} - how useful are the strategies that the researchers \emph{think} they have identified in actually doing the task in question????}
+
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	??? none of these categories really fit			&	Eliminates possible interpretations, does not necessarily describe the data																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes hours of observation and data analyses to derive 3 candidate strategies, then tries to find the one that matches human achievement																	\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	??? not sure this is the right metric for this research question						&  Issue is whether performance using any of the candidate strategies come close to matching human performance  \\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	What the heck are our subjects doing???? 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Do any of the strategies suggested by \emph{observation} come anywhere close to explaining the data??								\\
+	\end{tabular}
+}
+\end{frame}
+
+\begin{frame}
+	\includegraphics[width=\linewidth]{zFigs/cogWheels}
+	\begin{textblock}{4}(11,7)
+		\LARGE{\textcolor{wdgRed}{Thank You!!}}
+	\end{textblock}
+		
+	%\begin{textblock}{5}(10,3)
+	%	\LARGE{\textcolor{wdgRed}{Haben Sie vielen Dank!}}
+	%\end{textblock}
+\end{frame}
 
 \end{document}
 

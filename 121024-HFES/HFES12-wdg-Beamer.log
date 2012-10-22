@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.26)  21 OCT 2012 17:03
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.26)  21 OCT 2012 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1342,14 +1342,7 @@ Package biblatex Info: ... file 'english.lbx' found.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 File: english.lbx 2012/08/17 v2.2 biblatex localization (PK/JW/AB)
 )))
-(./HFES12-wdg-Beamer.aux
-
-LaTeX Warning: Label `sampleAgainframe<1>' multiply defined.
-
-
-LaTeX Warning: Label `sampleAgainframe' multiply defined.
-
-)
+(./HFES12-wdg-Beamer.aux)
 \openout1 = `HFES12-wdg-Beamer.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 256.
@@ -1369,7 +1362,8 @@ LaTeX Font Info:    ... okay on input line 256.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 256.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 256.
 
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 256.
@@ -1544,48 +1538,133 @@ LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
 [1
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
-GrayMatter/Library/texmf/tex/zLogoFigs/CWL-s.pdf>] [2
+GrayMatter/Library/texmf/tex/zLogoFigs/CWL-s.pdf>] (./HFES12-wdg-Beamer.toc)
+[2
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 307.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 290.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 307.
+LaTeX Font Info:    Try loading font information for U+msb on input line 290.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Overfull \hbox (4.50346pt too wide) in paragraph at lines 307--307
+Overfull \hbox (4.50346pt too wide) in paragraph at lines 290--290
  []|\T1/cmss/m/n/10.95 DIMENSIONALITY| 
  []
 
 [3
 
-] [4
+] (./HFES12-wdg-Beamer.toc) [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+cmss on input line 343
-.
- (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [5
+(./HFES12-wdg-Beamer.toc) [14
 
-]pdfTeX warning (ext4): destination with the same identifier (name{sampleAgainf
-rame<1>}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.345 \againframe{sampleAgainframe}
-                                   pdfTeX warning (ext4): destination with the 
-same identifier (name{sampleAgainframe}) has been already used, duplicate ignor
-ed
-<to be read again> 
-                   \relax 
-l.345 \againframe{sampleAgainframe}
-                                    [6
+] (./HFES12-wdg-Beamer.toc) [15
 
 ]
+<zFigs/fig4-SL.pdf, id=198, 2007.5pt x 1164.35pt>
+File: zFigs/fig4-SL.pdf Graphic file (type pdf)
+ <use zFigs/fig4-SL.pdf>
+Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 353.
+(pdftex.def)             Requested size: 273.14648pt x 158.42412pt.
+
+<zFigs/fig5-SLhist.pdf, id=199, 923.45pt x 1003.75pt>
+File: zFigs/fig5-SLhist.pdf Graphic file (type pdf)
+
+<use zFigs/fig5-SLhist.pdf>
+Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 353.
+(pdftex.def)             Requested size: 136.57324pt x 148.4424pt.
+ [16
+
+ <./zFigs/fig4-SL.pdf> <./zFigs/fig5-SLhist.pdf>]
+File: zFigs/fig4-SL.pdf Graphic file (type pdf)
+ <use zFigs/fig4-SL.pdf>
+Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 353.
+(pdftex.def)             Requested size: 273.14648pt x 158.42412pt.
+File: zFigs/fig5-SLhist.pdf Graphic file (type pdf)
+ <use zFigs/fig5-SLhist.pdf>
+Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 353.
+(pdftex.def)             Requested size: 136.57324pt x 148.4424pt.
+ [17
+
+]
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 376--376
+ []|\T1/cmss/m/n/10 DIMENSIONALITY| 
+ []
+
+[18
+
+] (./HFES12-wdg-Beamer.toc) [19
+
+]
+<zFigs/fig1_NeuroImage.pdf, id=246, 526.96875pt x 257.96375pt>
+File: zFigs/fig1_NeuroImage.pdf Graphic file (type pdf)
+
+<use zFigs/fig1_NeuroImage.pdf>
+Package pdftex.def Info: zFigs/fig1_NeuroImage.pdf used on input line 390.
+(pdftex.def)             Requested size: 273.14648pt x 133.7168pt.
+ [20
+
+ <./zFigs/fig1_NeuroImage.pdf>]
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 407--407
+ []|\T1/cmss/m/n/10 DIMENSIONALITY| 
+ []
+
+[21
+
+] (./HFES12-wdg-Beamer.toc) [22
+
+]
+<zFigs/Argus_scr-shot_color.jpg, id=279, 358.4592pt x 269.0853pt>
+File: zFigs/Argus_scr-shot_color.jpg Graphic file (type jpg)
+
+<use zFigs/Argus_scr-shot_color.jpg>
+Package pdftex.def Info: zFigs/Argus_scr-shot_color.jpg used on input line 423.
+
+(pdftex.def)             Requested size: 273.14648pt x 205.05304pt.
+ [23
+
+ <./zFigs/Argus_scr-shot_color.jpg>]
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 440--440
+ []|\T1/cmss/m/n/10 DIMENSIONALITY| 
+ []
+
+[24
+
+] <zFigs/cogWheels.pdf, id=293, 1028.84375pt x 811.03pt>
+File: zFigs/cogWheels.pdf Graphic file (type pdf)
+
+<use zFigs/cogWheels.pdf>
+Package pdftex.def Info: zFigs/cogWheels.pdf used on input line 451.
+(pdftex.def)             Requested size: 342.2953pt x 269.83115pt.
+
+Overfull \vbox (10.35655pt too high) detected at line 451
+ []
+
+[25
+
+ <./zFigs/cogWheels.pdf>]
 \tf@nav=\write7
 \openout7 = `HFES12-wdg-Beamer.nav'.
 
@@ -1595,52 +1674,51 @@ l.345 \againframe{sampleAgainframe}
 \tf@snm=\write9
 \openout9 = `HFES12-wdg-Beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 348.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 348.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
  (./HFES12-wdg-Beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 348.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 348.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
 Package rerunfilecheck Info: File `HFES12-wdg-Beamer.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 41AD89DEE776165E6136ACF8EF453583;421.
 
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'HFES12-wdg-Beamer.run.xml'.
 \openout1 = `HFES12-wdg-Beamer.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 348.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
  ) 
 Here is how much of TeX's memory you used:
- 26572 strings out of 493488
- 492764 string characters out of 3141326
- 1054168 words of memory out of 3000000
- 29208 multiletter control sequences out of 15000+200000
- 19120 words of font info for 48 fonts, out of 3000000 for 9000
+ 26789 strings out of 493488
+ 496113 string characters out of 3141326
+ 1054364 words of memory out of 3000000
+ 29357 multiletter control sequences out of 15000+200000
+ 24572 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,63p,1889b,1652s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{cite.0@mane89ap.jou} has been referenced but does
- not exist, replaced by a fixed one
+ 49i,16n,62p,2011b,1873s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.0@borges98exactitude} has been referenced bu
+t does not exist, replaced by a fixed one
 
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/
-usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</u
-sr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi0600.pfb></usr
-/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/l
-ocal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/loc
-al/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/local
-/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/t
-exlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/tex
-live/2012/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texlive
-/2012/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on HFES12-wdg-Beamer.pdf (6 pages, 118487 bytes).
+pdfTeX warning (dest): name{cite.0@mcclelland09topiCS} has been referenced but 
+does not exist, replaced by a fixed one
+
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi0600.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb>
+Output written on HFES12-wdg-Beamer.pdf (25 pages, 3652628 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 

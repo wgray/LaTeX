@@ -2073,11 +2073,24 @@
     <bcf:datasource type="file" datatype="bibtex">/Users/GrayMatter/Library/texmf/tex/wdg_master_Bib.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">terlecki08acp</bcf:citekey>
-    <bcf:citekey order="1">kirsh94csj</bcf:citekey>
-    <bcf:citekey order="1">maglio08actaPsyc</bcf:citekey>
-    <bcf:citekey order="2">mane89ap.jou</bcf:citekey>
-    <bcf:citekey order="3">shebilske05brm.jou</bcf:citekey>
-    <bcf:citekey order="4">mane89ap.jou</bcf:citekey>
+    <bcf:citekey order="1">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="2">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="3">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="4">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="5">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="6">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="7">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="8">mcclelland09topiCS</bcf:citekey>
+    <bcf:citekey order="9">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="10">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="11">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="12">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="13">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="14">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="15">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="16">borges98exactitude</bcf:citekey>
+    <bcf:citekey order="17">bej12hfes</bcf:citekey>
+    <bcf:citekey order="18">wang12neuroImage</bcf:citekey>
+    <bcf:citekey order="19">gray02hfes</bcf:citekey>
   </bcf:section>
 </bcf:controlfile>
