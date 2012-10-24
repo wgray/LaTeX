@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.26)  21 OCT 2012 22:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.9.26)  23 OCT 2012 22:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1559,107 +1559,107 @@ Overfull \hbox (4.50346pt too wide) in paragraph at lines 290--290
 
 ] (./HFES12-wdg-Beamer.toc) [4
 
-] [5
-
-] [6
-
-] [7
-
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12
-
-] [13
+] (./HFES12-wdg-Beamer.toc) [5
 
 ]
-(./HFES12-wdg-Beamer.toc) [14
-
-] (./HFES12-wdg-Beamer.toc) [15
-
-]
-<zFigs/fig4-SL.pdf, id=198, 2007.5pt x 1164.35pt>
+<zFigs/fig4-SL.pdf, id=112, 2007.5pt x 1164.35pt>
 File: zFigs/fig4-SL.pdf Graphic file (type pdf)
  <use zFigs/fig4-SL.pdf>
-Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 353.
+Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 311.
 (pdftex.def)             Requested size: 273.14648pt x 158.42412pt.
 
-<zFigs/fig5-SLhist.pdf, id=199, 923.45pt x 1003.75pt>
+<zFigs/fig5-SLhist.pdf, id=113, 923.45pt x 1003.75pt>
 File: zFigs/fig5-SLhist.pdf Graphic file (type pdf)
 
 <use zFigs/fig5-SLhist.pdf>
-Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 353.
+Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 311.
 (pdftex.def)             Requested size: 136.57324pt x 148.4424pt.
- [16
+ [6
 
  <./zFigs/fig4-SL.pdf> <./zFigs/fig5-SLhist.pdf>]
 File: zFigs/fig4-SL.pdf Graphic file (type pdf)
- <use zFigs/fig4-SL.pdf>
-Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 353.
+<use zFigs/fig4-SL.pdf>
+Package pdftex.def Info: zFigs/fig4-SL.pdf used on input line 311.
 (pdftex.def)             Requested size: 273.14648pt x 158.42412pt.
 File: zFigs/fig5-SLhist.pdf Graphic file (type pdf)
  <use zFigs/fig5-SLhist.pdf>
-Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 353.
+Package pdftex.def Info: zFigs/fig5-SLhist.pdf used on input line 311.
 (pdftex.def)             Requested size: 136.57324pt x 148.4424pt.
- [17
+ [7
 
 ]
-Overfull \hbox (6.07408pt too wide) in paragraph at lines 376--376
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 334--334
  []|\T1/cmss/m/n/10 DIMENSIONALITY| 
  []
 
-[18
+[8
 
-] (./HFES12-wdg-Beamer.toc) [19
+] (./HFES12-wdg-Beamer.toc) [9
 
 ]
-<zFigs/fig1_NeuroImage.pdf, id=246, 526.96875pt x 257.96375pt>
+<zFigs/fig1_NeuroImage.pdf, id=164, 526.96875pt x 257.96375pt>
 File: zFigs/fig1_NeuroImage.pdf Graphic file (type pdf)
 
 <use zFigs/fig1_NeuroImage.pdf>
-Package pdftex.def Info: zFigs/fig1_NeuroImage.pdf used on input line 390.
+Package pdftex.def Info: zFigs/fig1_NeuroImage.pdf used on input line 349.
 (pdftex.def)             Requested size: 273.14648pt x 133.7168pt.
- [20
+ [10
 
  <./zFigs/fig1_NeuroImage.pdf>]
-Overfull \hbox (6.07408pt too wide) in paragraph at lines 407--407
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 366--366
  []|\T1/cmss/m/n/10 DIMENSIONALITY| 
  []
 
-[21
+[11
 
-] (./HFES12-wdg-Beamer.toc) [22
+] (./HFES12-wdg-Beamer.toc) [12
 
 ]
-<zFigs/Argus_scr-shot_color.jpg, id=279, 358.4592pt x 269.0853pt>
+<zFigs/Argus_scr-shot_color.jpg, id=196, 358.4592pt x 269.0853pt>
 File: zFigs/Argus_scr-shot_color.jpg Graphic file (type jpg)
 
 <use zFigs/Argus_scr-shot_color.jpg>
-Package pdftex.def Info: zFigs/Argus_scr-shot_color.jpg used on input line 423.
+Package pdftex.def Info: zFigs/Argus_scr-shot_color.jpg used on input line 383.
 
 (pdftex.def)             Requested size: 273.14648pt x 205.05304pt.
- [23
+ [13
 
  <./zFigs/Argus_scr-shot_color.jpg>]
-Overfull \hbox (6.07408pt too wide) in paragraph at lines 440--440
+Overfull \hbox (6.07408pt too wide) in paragraph at lines 402--402
  []|\T1/cmss/m/n/10 DIMENSIONALITY| 
  []
 
+[14
+
+] (./HFES12-wdg-Beamer.toc) [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
+
+] [23
+
+]
 [24
 
-] <zFigs/cogWheels.pdf, id=293, 1028.84375pt x 811.03pt>
+] <zFigs/cogWheels.pdf, id=294, 1028.84375pt x 811.03pt>
 File: zFigs/cogWheels.pdf Graphic file (type pdf)
 
 <use zFigs/cogWheels.pdf>
-Package pdftex.def Info: zFigs/cogWheels.pdf used on input line 451.
+Package pdftex.def Info: zFigs/cogWheels.pdf used on input line 461.
 (pdftex.def)             Requested size: 342.2953pt x 269.83115pt.
 
-Overfull \vbox (10.35655pt too high) detected at line 451
+Overfull \vbox (10.35655pt too high) detected at line 461
  []
 
 [25
@@ -1674,13 +1674,13 @@ Overfull \vbox (10.35655pt too high) detected at line 451
 \tf@snm=\write9
 \openout9 = `HFES12-wdg-Beamer.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 453.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 453.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 463.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 463.
  (./HFES12-wdg-Beamer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 453.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 453.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 463.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 463.
 Package rerunfilecheck Info: File `HFES12-wdg-Beamer.out' has not changed.
-(rerunfilecheck)             Checksum: 41AD89DEE776165E6136ACF8EF453583;421.
+(rerunfilecheck)             Checksum: 8BDC40D1AF750D7A6E053C73336BA635;419.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1689,16 +1689,16 @@ LaTeX Font Warning: Size substitutions with differences
 Package logreq Info: Writing requests to 'HFES12-wdg-Beamer.run.xml'.
 \openout1 = `HFES12-wdg-Beamer.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 453.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 463.
  ) 
 Here is how much of TeX's memory you used:
  26789 strings out of 493488
- 496113 string characters out of 3141326
- 1054364 words of memory out of 3000000
+ 496109 string characters out of 3141326
+ 1054387 words of memory out of 3000000
  29357 multiletter control sequences out of 15000+200000
  24572 words of font info for 62 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 49i,16n,62p,2011b,1873s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 49i,16n,62p,2017b,1874s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{cite.0@borges98exactitude} has been referenced bu
 t does not exist, replaced by a fixed one
 
@@ -1708,17 +1708,18 @@ does not exist, replaced by a fixed one
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
 usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi0600.pfb></us
 r/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/loca
-l/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/
-texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texl
-ive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texliv
-e/2012/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb>
-Output written on HFES12-wdg-Beamer.pdf (25 pages, 3652628 bytes).
+local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1095.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfsi1440.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0600.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb></usr/local/texliv
+e/2012/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/cm-super/sfss1728.pfb>
+Output written on HFES12-wdg-Beamer.pdf (25 pages, 3663623 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 291 compressed objects within 3 object streams
+ 362 PDF objects out of 1000 (max. 8388607)
+ 294 compressed objects within 3 object streams
  64 named destinations out of 1000 (max. 500000)
  139 words of extra memory for PDF output out of 10000 (max. 10000000)
 

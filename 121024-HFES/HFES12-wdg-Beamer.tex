@@ -289,6 +289,119 @@
 	\end{center}
 \end{frame}
 
+
+
+\section{Models Presented at HFES}
+\subsection{Predicting Task Duration \& Variability}
+
+%% undoes the effect of \setbeamercovered{transparent} used in the prolog
+{\setbeamercovered{invisible}{
+\begin{frame}
+	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without 
+Skilled Performers - HFES12 - Thur 8:00 HP2}
+	\vspace{-4.2cm}
+	SANLab Models (Stochastic Analytic Network Laboratory)
+	\begin{textblock}{12}(1,5)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig4-SL}}
+	\end{textblock}
+	
+	\begin{textblock}{6}(6,7)
+		\uncover<2>{\includegraphics[width=\textwidth]{zFigs/fig5-SLhist}}
+	\end{textblock}
+\end{frame}
+}}
+
+{\nologo{
+\begin{frame}
+	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers}
+	\vspace{-1cm}
+
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Predicts expert performance times and variability w/o experts																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	3 - Multi input/output			&	Uses \textcolor{wdgRed}{\emph{fixed sets of population parameters}} and task analysis as input. Predicts time + variability for the average person.									\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	3 - Cardinal						&	Mean times and Standard Deviations																\\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Any one model \alert{should} focus on one design; however, trivial to make multiple models for same or different device 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	2-3								&	CogTool is widely used by the interface design community. SANLab is based on Activity Networks which are the formalism underlying CPM-GOMS models as well as MANPRINT, etc													\\
+	\end{tabular}
+}
+	\begin{textblock}{12}(1,13.5)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{bej12hfes}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+}}
+
+\subsection{Cognitive Workload from EEG}
+
+\begin{frame}
+	\frametitle{Cross-subject workload classification with a Hierarchical Bayes Model - HFES11}
+	\begin{textblock}{12}(1,4)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig1_NeuroImage}}
+	\end{textblock}
+	\begin{textblock}{12}(1,13)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{wang12neuroImage}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+{\nologo{
+\begin{frame}
+	\frametitle{Cross-subject workload classification}
+	%\vspace{-1cm}
+	Using a non-cognitive, Hierarchical Bayes Model
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Uses a training set of multiple people to derive parameters that can read each of their EEG data to recognize their current workload state \textcolor{wdgRed}{(caution - this gloss may make the model sound better than it actually is)}																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes 64 channel EEG data and predicts one CWL measure																	\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	2 - Ordinal						&	High, medium, or low workload																\\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Workload!!! 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Hierarchical Bayes Analyses are well-accepted in the academic engineering community, apparently new to Human Factors													\\
+	\end{tabular}
+}
+\end{frame}
+}}
+
+\subsection{Strategy Evaluation via Cognitive Modeling}
+
+%% undoes the effect of \setbeamercovered{transparent} used in the prolog
+
+\begin{frame}
+	\frametitle{Strategy Evaluation via Cognitive Modeling - HFES02}
+	\begin{textblock}{12}(1,1.8)
+		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/Argus_scr-shot_color}}
+	\end{textblock}
+	\begin{textblock}{13}(0.8,13.3)
+		\begin{citeBlock}{}
+			\tiny{\fullcite{gray02hfes}}
+		\end{citeBlock}
+	\end{textblock}
+\end{frame}
+
+{\nologo{
+\begin{frame}
+	\frametitle{Strategy Evaluation via Cognitive Modeling}
+	\vspace{-0.5cm}
+	\small{Using a cognitively valid, ACT-R model locked into one of 3 search strategies -- asking a variant of the \textcolor{wdgRed}{\emph{optimality} question} - how useful are the strategies that the researchers \emph{think} they have identified in actually doing the task in question????}\\
+\textcolor{white}{extraline}\\
+
+	\resizebox{\textwidth}{!}{
+	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
+	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
+	A    &	\small{DATA APPLICABILITY}			&	??? none of these categories really fit			&	Eliminates possible interpretations, does not necessarily describe the data																	\\ \hline 	\rowcolor{gray90}
+	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes hours of observation and data analyses to derive 3 candidate strategies, then tries to find the one that matches human achievement																	\\\hline\rowcolor{gray75}
+	C   &	\small{METRICITY	}					&	??? not sure this is the right metric for this research question						&  Issue is whether performance using any of the candidate strategies come close to matching human performance  \\\hline\rowcolor{gray90}
+	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	What the heck are our subjects doing???? 							\\ \hline\rowcolor{gray75}
+      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Do any of the strategies suggested by \emph{observation} come anywhere close to explaining the data??								\\
+	\end{tabular}
+}
+\end{frame}
+}}
+
 \section{Other Visions}
 \begin{frame}[label=sampleAgainframe]
 	\frametitle{OTHER VISIONS OF MODELS: \emph{McClelland, 2009}}
@@ -334,109 +447,6 @@ depends in part on understanding the effects of the simplification.
 		\item Unfortunately, this can mean that further exploration becomes more technical and complex as a result.
 			\item Trying hard to add just enough additional complexity can help. Learning what simplification is the best one to use is also a part of the process. Some simplifications do a better job retaining essential properties of a process than others.
 	\end{itemize}
-\end{frame}
-
-\section{Models Presented at HFES}
-\subsection{Predicting Task Duration \& Variability}
-
-%% undoes the effect of \setbeamercovered{transparent} used in the prolog
-{\setbeamercovered{invisible}{
-\begin{frame}
-	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers - HFES12 - Thur 8:00 HP2}
-	\begin{textblock}{12}(1,4)
-		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig4-SL}}
-	\end{textblock}
-	
-	\begin{textblock}{6}(6,7)
-		\uncover<2>{\includegraphics[width=\textwidth]{zFigs/fig5-SLhist}}
-	\end{textblock}
-\end{frame}
-}}
-
-\begin{frame}
-	\frametitle{Tools for Predicting the Duration and Variability of Skilled Performance without Skilled Performers}
-	\vspace{-1cm}
-	A SANLab Model (Stochastic Analytic Network Laboratory)
-
-	\resizebox{\textwidth}{!}{
-	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
-	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
-	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Predicts expert performance times and variability w/o experts																	\\ \hline 	\rowcolor{gray90}
-	B    & \small{DIMENSIONALITY}				&	3 - Multi input/output			&	Takes task analysis as input, predicts time + variability																	\\\hline\rowcolor{gray75}
-	C   &	\small{METRICITY	}					&	3 - Cardinal						&	Mean times and Standard Deviations																\\\hline\rowcolor{gray90}
-	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Any one model \alert{should} focus on one design; however, trivial to make multiple models for same or different device 							\\ \hline\rowcolor{gray75}
-      E    &	\small{SOCIAL PENETRATION}			&	2-3								&	CogTool is widely used by the interface design community. SANLab is based on Activity Networks which are the formalism underlying CPM-GOMS models as well as MANPRINT, etc													\\
-	\end{tabular}
-}
-	\begin{textblock}{12}(1,13)
-		\begin{citeBlock}{}
-			\tiny{\fullcite{bej12hfes}}
-		\end{citeBlock}
-	\end{textblock}
-\end{frame}
-
-\subsection{Cognitive Workload from EEG}
-
-\begin{frame}
-	\frametitle{Cross-subject workload classification with a Hierarchical Bayes Model - HFES11}
-	\begin{textblock}{12}(1,4)
-		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/fig1_NeuroImage}}
-	\end{textblock}
-	\begin{textblock}{12}(1,13)
-		\begin{citeBlock}{}
-			\tiny{\fullcite{wang12neuroImage}}
-		\end{citeBlock}
-	\end{textblock}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Cross-subject workload classification}
-	%\vspace{-1cm}
-	Using a non-cognitive, Hierarchical Bayes Model
-
-	\resizebox{\textwidth}{!}{
-	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
-	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
-	A    &	\small{DATA APPLICABILITY}			&	3 - Predicts future data			&	Uses a training set of multiple people to derive parameters that can read each of their EEG data to recognize their current workload state \textcolor{wdgRed}{(caution - this gloss may make the model sound better than it actually is)}																	\\ \hline 	\rowcolor{gray90}
-	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes 64 channel EEG data and predicts one CWL measure																	\\\hline\rowcolor{gray75}
-	C   &	\small{METRICITY	}					&	2 - Ordinal						&	High, medium, or low workload																\\\hline\rowcolor{gray90}
-	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	Workload!!! 							\\ \hline\rowcolor{gray75}
-      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Hierarchical Bayes Analyses are well-accepted in the academic engineering community, apparently new to Human Factors													\\
-	\end{tabular}
-}
-\end{frame}
-
-\subsection{Strategy Evaluation via Cognitive Modeling}
-
-%% undoes the effect of \setbeamercovered{transparent} used in the prolog
-
-\begin{frame}
-	\frametitle{Strategy Evaluation via Cognitive Modeling - HFES02}
-	\begin{textblock}{12}(1,2)
-		\uncover<1->{\includegraphics[width=\textwidth]{zFigs/Argus_scr-shot_color}}
-	\end{textblock}
-	\begin{textblock}{12}(1,13)
-		\begin{citeBlock}{}
-			\tiny{\fullcite{gray02hfes}}
-		\end{citeBlock}
-	\end{textblock}
-\end{frame}
-
-\begin{frame}
-	\frametitle{Strategy Evaluation via Cognitive Modeling}
-	%\vspace{-1cm}
-	\small{Using a cognitively valid, ACT-R model locked into one of 3 search strategies -- asking the \textcolor{wdgRed}{\emph{optimality} question} - how useful are the strategies that the researchers \emph{think} they have identified in actually doing the task in question????}
-
-	\resizebox{\textwidth}{!}{
-	\begin{tabular}{l| $>{\centering\arraybackslash}m{2.7cm} |$>{\centering\arraybackslash}m{3cm}|$>{\centering\arraybackslash}m{6.5cm}}								\hline\rowcolor{gray50}
-	&	\textcolor{white}{ATTRIBUTE}		&	\textcolor{white}{CATEGORY (1, 2, or 3)}	&	\textcolor{white}{DISCUSSION}												\\\hline\rowcolor{gray75}
-	A    &	\small{DATA APPLICABILITY}			&	??? none of these categories really fit			&	Eliminates possible interpretations, does not necessarily describe the data																	\\ \hline 	\rowcolor{gray90}
-	B    & \small{DIMENSIONALITY}				&	2 - Multi input/ single output			&	Takes hours of observation and data analyses to derive 3 candidate strategies, then tries to find the one that matches human achievement																	\\\hline\rowcolor{gray75}
-	C   &	\small{METRICITY	}					&	??? not sure this is the right metric for this research question						&  Issue is whether performance using any of the candidate strategies come close to matching human performance  \\\hline\rowcolor{gray90}
-	D   &	\small{ROBUSTNESS}					&	1 - Unique focus (??)				 &	What the heck are our subjects doing???? 							\\ \hline\rowcolor{gray75}
-      E    &	\small{SOCIAL PENETRATION}			&	1-3								&	Do any of the strategies suggested by \emph{observation} come anywhere close to explaining the data??								\\
-	\end{tabular}
-}
 \end{frame}
 
 \begin{frame}
